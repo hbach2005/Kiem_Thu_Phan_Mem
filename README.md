@@ -1,4 +1,4 @@
-# Kiem_Thu_Phan_Mem
+90[# Kiểm_Thử_Phần_Mềm
 ## BÀI THỰC HÀNH TUẦN 1 – KIỂM THỬ PHẦN MỀM
 
 ### 1. Thông tin sinh viên
