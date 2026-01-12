@@ -1,4 +1,3 @@
-90[# Kiểm_Thử_Phần_Mềm
 ## BÀI THỰC HÀNH TUẦN 1 – KIỂM THỬ PHẦN MỀM
 
 ### 1. Thông tin sinh viên
@@ -35,7 +34,7 @@
 - Hoạt động kiểm thử UI/UX đóng vai trò quan trọng trong việc nâng cao chất lượng sản phẩm phần mềm
 
 ### 6. Kết luận
-- Thông qua bài thực hành, sinh viên:
+- Thông qua bài thực hành, sinh viên
 - Hiểu cách sử dụng GitHub để lưu trữ và nộp bài
 - Nắm được các yếu tố cơ bản trong kiểm thử giao diện và UX/UI
 - Có thêm nền tảng để tiếp cận các công cụ kiểm thử giao diện nâng cao ở các bài thực hành tiếp theo
