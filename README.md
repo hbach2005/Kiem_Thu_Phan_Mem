@@ -8,7 +8,7 @@
 - **Giảng viên:** Trương Anh Hoàng
 
 ### 2. Mục tiêu bài thực hành
-- Làm quen với GitHub và cách quản lý bài thực hành thông qua repository cá nhân
+- Làm quen với GitHub và cách quản lý bài thực hành thông qua kho lưu trữ cá nhân
 - Trải nghiệm và đánh giá chất lượng giao diện phần mềm
 - Nhận thức được vai trò quan trọng của trải nghiệm người dùng (UX/UI) trong kiểm thử phần mềm
 
@@ -18,7 +18,7 @@
 - Repository có kèm file README.md dùng để tổng hợp báo cáo và minh chứng kết quả
 
 #### 3.2. Trải nghiệm kiểm thử giao diện với CantUnsee
-- Truy cập website: https://cantunsee.space/
+- Truy cập trang web: https://cantunsee.space/
 - Thực hiện các bài kiểm tra phân biệt màu sắc và chi tiết giao diện
 - Mục tiêu: đạt điểm số cao nhất, qua đó đánh giá khả năng quan sát và nhận diện UI
 
