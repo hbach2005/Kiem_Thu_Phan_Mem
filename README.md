@@ -1,12 +1,5 @@
 ## BÀI THỰC HÀNH HỌC PHẦN – KIỂM THỬ PHẦN MỀM
 
-### 1. Thông tin sinh viên
-- **Họ và tên:** Nguyễn Hưng Bách
-- **MSSV:** BIT230049
-- **Email:** hungbach205@gmail.com
-- **Môn học:** Kiểm thử phần mềm
-- **Giảng viên:** Trương Anh Hoàng
-
 ### BÀI THỰC HÀNH TUẦN 1 – KIỂM THỬ PHẦN MỀM
 ### 1. Thông tin sinh viên
 - **Họ và tên:** Nguyễn Hưng Bách
